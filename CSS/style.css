@@ -389,10 +389,6 @@ section.work {
     background: var(--light);
 }
 
-section.work p {
-
-}
-
 section.work .card-wrapper {
         display: grid;
         grid-template-columns: repeat(3,1fr);
